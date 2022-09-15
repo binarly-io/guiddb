@@ -2,6 +2,7 @@
 .vscode/
 .vs/
 .idea/
+update/
 
 # OSX
 .DS_Store

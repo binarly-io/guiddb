@@ -1,0 +1,7 @@
+# custom directories
+.vscode/
+.vs/
+.idea/
+
+# OSX
+.DS_Store
